@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home</title>
+    <link>http://aadhaarcardnews.in/auto/categories/</link>
+    <description>Recent content in Categories on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://aadhaarcardnews.in/auto/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ऑटो वर्ल्ड</title>
+      <link>http://aadhaarcardnews.in/auto/categories/%E0%A4%91%E0%A4%9F%E0%A5%8B-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A5%8D%E0%A4%A1/</link>
+      <pubDate>Sat, 16 Sep 2017 12:11:58 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/auto/categories/%E0%A4%91%E0%A4%9F%E0%A5%8B-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A5%8D%E0%A4%A1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
